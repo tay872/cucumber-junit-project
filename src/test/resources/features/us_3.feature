@@ -1,4 +1,4 @@
-@login @smoke @regression
+@login  @regression
 Feature: As a user, I should be able to login to TryCloud app
 
   Background:

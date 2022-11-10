@@ -9,7 +9,7 @@ Feature: Login scenario
 
   Background:
     Given user is on the login page of web table app
-  @smoke
+
   Scenario: Login scenario with 1 param
 
     When user enter username"Test"
