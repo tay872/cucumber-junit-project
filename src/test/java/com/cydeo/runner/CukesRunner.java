@@ -19,7 +19,7 @@ import org.junit.runner.RunWith;
                 //step_definition folder
                 dryRun = false, // To check if anything unimplemented in the project
                 //default is already false
-                tags = "@smoke" ,  //Help us to know which annotation we need to run by giving tags name ex: @smoke @regression
+               // tags = "@smoke" ,  //Help us to know which annotation we need to run by giving tags name ex: @smoke @regression
                 publish = true
 
         )
